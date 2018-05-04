@@ -1,0 +1,6 @@
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_class\User_class\bin\Debug\User_class.dll
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_class\User_class\bin\Debug\User_class.pdb
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_class\User_class\bin\Debug\ClassLibrary_CGC.dll
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_class\User_class\obj\Debug\User_class.csprojResolveAssemblyReference.cache
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_class\User_class\obj\Debug\User_class.dll
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_class\User_class\obj\Debug\User_class.pdb

@@ -1,0 +1,7 @@
+[05-05-2018 1-40-22] : My ACTION: Bomb
+[05-05-2018 1-40-23] : My ACTION: Bomb
+[05-05-2018 1-40-24] : My ACTION: Bomb
+[05-05-2018 1-40-25] : My ACTION: Bomb
+[05-05-2018 1-40-26] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer()
