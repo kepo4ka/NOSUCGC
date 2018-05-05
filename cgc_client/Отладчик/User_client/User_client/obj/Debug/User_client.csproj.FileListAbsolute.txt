@@ -1,10 +1,40 @@
-H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_client\User_client\bin\Debug\User_client.exe.config
-H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_client\User_client\bin\Debug\User_client.exe
-H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_client\User_client\bin\Debug\User_client.pdb
-H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_client\User_client\bin\Debug\ClassLibrary_CGC.dll
-H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_client\User_client\bin\Debug\Newtonsoft.Json.dll
-H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_client\User_client\bin\Debug\User_class.dll
-H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_client\User_client\bin\Debug\User_class.pdb
-H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_client\User_client\obj\Debug\User_client.csprojResolveAssemblyReference.cache
-H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_client\User_client\obj\Debug\User_client.exe
-H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_client\User_client\obj\Debug\User_client.pdb
+H:\Cloudmail\Sources\C#\Diplom-CGC\Bomber_wpf_clientside\User_client\User_client\bin\Debug\User_client.exe.config
+H:\Cloudmail\Sources\C#\Diplom-CGC\Bomber_wpf_clientside\User_client\User_client\bin\Debug\User_client.exe
+H:\Cloudmail\Sources\C#\Diplom-CGC\Bomber_wpf_clientside\User_client\User_client\bin\Debug\User_client.pdb
+H:\Cloudmail\Sources\C#\Diplom-CGC\Bomber_wpf_clientside\User_client\User_client\bin\Debug\ClassLibrary_CGC.dll
+H:\Cloudmail\Sources\C#\Diplom-CGC\Bomber_wpf_clientside\User_client\User_client\bin\Debug\User_class.dll
+H:\Cloudmail\Sources\C#\Diplom-CGC\Bomber_wpf_clientside\User_client\User_client\obj\Debug\User_client.exe
+H:\Cloudmail\Sources\C#\Diplom-CGC\Bomber_wpf_clientside\User_client\User_client\obj\Debug\User_client.pdb
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\User_client.exe.config
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\User_client\User_client\obj\Debug\User_client.exe
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\User_client\User_client\obj\Debug\User_client.pdb
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\User_client.exe
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\User_client.pdb
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\ClassLibrary_CGC.dll
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\User_class.dll
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\User_class.pdb
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\User_client\User_client\obj\Debug\User_client.csprojResolveAssemblyReference.cache
+H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FabLab7\Downloads\Diplom-CGC\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\User_client.exe.config
+C:\Users\FabLab7\Downloads\Diplom-CGC\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\User_client.exe
+C:\Users\FabLab7\Downloads\Diplom-CGC\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\User_client.pdb
+C:\Users\FabLab7\Downloads\Diplom-CGC\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\ClassLibrary_CGC.dll
+C:\Users\FabLab7\Downloads\Diplom-CGC\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FabLab7\Downloads\Diplom-CGC\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\User_class.dll
+C:\Users\FabLab7\Downloads\Diplom-CGC\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\User_class.pdb
+C:\Users\FabLab7\Downloads\Diplom-CGC\Diplom-CGC\cgc_client\User_client\User_client\obj\Debug\User_client.csprojResolveAssemblyReference.cache
+C:\Users\FabLab7\Downloads\Diplom-CGC\Diplom-CGC\cgc_client\User_client\User_client\obj\Debug\User_client.exe
+C:\Users\FabLab7\Downloads\Diplom-CGC\Diplom-CGC\cgc_client\User_client\User_client\obj\Debug\User_client.pdb
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\Diplom-CGC\cgc_client\User_client\User_client\bin\Debug\User_client.exe.config
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\Diplom-CGC\cgc_client\User_client\User_client\obj\Debug\User_client.exe
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\Diplom-CGC\cgc_client\User_client\User_client\obj\Debug\User_client.pdb
+H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\bin\Debug\User_client.exe.config
+H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\obj\Debug\User_client.exe
+H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\obj\Debug\User_client.pdb
+H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\obj\Debug\User_client.csprojResolveAssemblyReference.cache
+H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\bin\Debug\User_client.exe
+H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\bin\Debug\User_client.pdb
+H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\bin\Debug\ClassLibrary_CGC.dll
+H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\bin\Debug\Newtonsoft.Json.dll
+H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\bin\Debug\User_class.dll
+H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\bin\Debug\User_class.pdb

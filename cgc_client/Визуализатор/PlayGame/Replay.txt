@@ -1,10 +1,14 @@
-8 3 1 2 4 Pole4.txt
-Pasha Misha Lesha Admin
-B B W W
-L U R L
-U B D L
-W W W B
-B W W D
-U W U D
-L W W D
-D U U W 
+8
+2
+test test1 
+1 0 
+StandartMap2
+W W 
+W W 
+D R 
+B R 
+R R 
+U B 
+U L 
+U R 
+

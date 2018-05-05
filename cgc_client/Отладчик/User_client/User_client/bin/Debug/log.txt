@@ -1,3 +1,76 @@
-[05-05-2018 1-18-59] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+[02-05-2018 17-33-54] : My ACTION: Bomb
+[02-05-2018 17-33-54] : RECIEVE: gameboardjson length - 1476
+[02-05-2018 17-33-54] : RECIEVE: gameboardjson decompress length - 18400
+[02-05-2018 17-33-54] : RECIEVE: userstr length - 148
+[02-05-2018 17-33-54] : RECIEVE: userstr length - 101
+[02-05-2018 17-33-54] : My ACTION: Up
+[02-05-2018 17-33-54] : RECIEVE: gameboardjson length - 1476
+[02-05-2018 17-33-54] : RECIEVE: gameboardjson decompress length - 18400
+[02-05-2018 17-33-54] : RECIEVE: userstr length - 152
+[02-05-2018 17-33-54] : RECIEVE: userstr length - 101
+[02-05-2018 17-33-54] : My ACTION: Up
+[02-05-2018 17-33-54] : RECIEVE: gameboardjson length - 1476
+[02-05-2018 17-33-54] : RECIEVE: gameboardjson decompress length - 18400
+[02-05-2018 17-33-54] : RECIEVE: userstr length - 152
+[02-05-2018 17-33-54] : RECIEVE: userstr length - 101
+[02-05-2018 17-33-54] : My ACTION: Up
+[02-05-2018 17-33-55] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
    в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
-   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\cgc_client\Локальный Отладчик\User_client\User_client\Program.cs:строка 121
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 122
+[03-05-2018 23-08-55] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[03-05-2018 23-09-45] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[03-05-2018 23-11-16] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[03-05-2018 23-22-35] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[03-05-2018 23-24-02] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[03-05-2018 23-26-23] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[03-05-2018 23-28-13] : ERROR: Не удается прочитать данные из транспортного соединения: Программа на вашем хост-компьютере разорвала установленное подключение.    в System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в User_client.Program.ReceiveMessage() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 194
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[03-05-2018 23-28-48] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[03-05-2018 23-29-23] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[03-05-2018 23-38-02] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[03-05-2018 23-39-13] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[03-05-2018 23-40-23] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[04-05-2018 22-33-00] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[04-05-2018 23-47-11] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[04-05-2018 23-48-19] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[04-05-2018 23-57-44] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[04-05-2018 23-59-18] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[04-05-2018 23-59-33] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
+[04-05-2018 23-59-54] : ERROR: Входная строка имела неверный формат.    в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в User_client.Program.CommunicateWithServer() в H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\Program.cs:строка 121
