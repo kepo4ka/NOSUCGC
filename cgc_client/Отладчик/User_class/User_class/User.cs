@@ -9,7 +9,7 @@ namespace User_class
     [Serializable]
     public class User : Player
     {
-        public GameBoard gameboard;
+        public static GameBoard gameboard;
 
          static int lastX;
          static int lastY;
@@ -81,6 +81,53 @@ namespace User_class
 
             return action;
         }
+
+
+
+        public void BombWayOut()
+        {
+            for (int i = 0; i < gameboard.Bombs.Count; i++)
+            {
+                var bomb = gameboard.Bombs[i];
+                if (dist(X, bomb.X, bomb.Bang_radius) && X == bomb.Y)
+                {
+
+                }
+            }
+        }
+
+
+        public bool dist(int a, int b, int c)
+        {
+            if (Math.Abs(a-b) <c)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+
+        public int direction(int a, int b)
+        {
+            int dif = a - b;
+
+            if (dif > 0)
+            {
+                return 1;
+            }
+            else if (dif<0)
+            {
+                return -1;
+            }
+            else
+            {
+                return 0;
+            }
+        }
+
 
     }
 }
