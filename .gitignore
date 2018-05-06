@@ -305,3 +305,6 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+cgc_client/Отладчик/User_client/User_client/bin/Debug/log.txt
+cgc_client/Отладчик/User_client/.vs/User_client/v14/.suo
+*.suo
