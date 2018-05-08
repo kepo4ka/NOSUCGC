@@ -41,3 +41,10 @@ H:\Cloudmail\Sources\C#\Diplom-CGC\User_client\User_client\bin\Debug\User_class.
 C:\Users\Galaxy\Desktop\NOSUCGC\cgc_client\Отладчик\User_client\User_client\bin\Debug\User_client.exe.config
 C:\Users\Galaxy\Desktop\NOSUCGC\cgc_client\Отладчик\User_client\User_client\obj\Debug\User_client.exe
 C:\Users\Galaxy\Desktop\NOSUCGC\cgc_client\Отладчик\User_client\User_client\obj\Debug\User_client.pdb
+C:\Users\Galaxy\Desktop\NOSUCGC\cgc_client\Отладчик\User_client\User_client\bin\Debug\User_client.exe
+C:\Users\Galaxy\Desktop\NOSUCGC\cgc_client\Отладчик\User_client\User_client\bin\Debug\User_client.pdb
+C:\Users\Galaxy\Desktop\NOSUCGC\cgc_client\Отладчик\User_client\User_client\bin\Debug\ClassLibrary_CGC.dll
+C:\Users\Galaxy\Desktop\NOSUCGC\cgc_client\Отладчик\User_client\User_client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Galaxy\Desktop\NOSUCGC\cgc_client\Отладчик\User_client\User_client\bin\Debug\User_class.dll
+C:\Users\Galaxy\Desktop\NOSUCGC\cgc_client\Отладчик\User_client\User_client\bin\Debug\User_class.pdb
+C:\Users\Galaxy\Desktop\NOSUCGC\cgc_client\Отладчик\User_client\User_client\obj\Debug\User_client.csprojResolveAssemblyReference.cache

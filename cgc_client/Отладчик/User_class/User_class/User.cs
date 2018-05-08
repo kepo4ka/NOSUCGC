@@ -9,8 +9,8 @@ namespace User_class
     [Serializable]
     public class User : Player
     {
+       
         public GameBoard gameboard;
-
         static int lastX;
         static int lastY;
         static PlayerAction lastAction;
@@ -28,7 +28,7 @@ namespace User_class
         public override PlayerAction Play(GameBoard gb)
         {
             /*
-                Пример тупого бота, который пытается дойти до центра (не учивая другие объект)
+                Пример бота, который пытается дойти до центра (не учивая другие объект)
             */
             Random rn = new Random();
             gameboard = gb;
