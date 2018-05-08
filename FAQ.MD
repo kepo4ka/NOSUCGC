@@ -179,7 +179,7 @@ X, Y, Name, Health, BombsCount...
 ```
 
 
-## Код, приказывающий Боту идти в центр поля?
+## Код, приказывающий Боту идти в центр поля
 
 ```
  public override PlayerAction Play(GameBoard gb)
