@@ -177,3 +177,38 @@ X, Y, Name, Health, BombsCount...
    ...
 }
 ```
+
+
+## Код, приказывающий Боту идти в центр поля?
+
+```
+ public override PlayerAction Play(GameBoard gb)
+ {
+   ...
+ 
+    PlayerAction action = PlayerAction.Wait;
+
+    int difX = (X - gb.W / 2);
+    int difY = (Y - gb.H / 2);
+
+    if (difY > 0)
+        action = PlayerAction.Up;
+    else if (difY < 0)
+    {
+        action = PlayerAction.Down;
+    }
+    else if (difX > 0)
+    {
+        action = PlayerAction.Left;
+    }
+    else if (difX < 0)
+    {
+        action = PlayerAction.Right;
+    }
+    else {
+        action = PlayerAction.Bomb;
+        Console.WriteLine("Подрывник дошёл до центра и поставил Бомбу");
+    }
+   
+   ...
+}
