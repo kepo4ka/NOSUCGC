@@ -104,6 +104,42 @@ X, Y, Name, Health, BombsCount...
 }
 ```
 
+
+## Как узнать есть ли в указанной клетке Бомба, а также количество Ходов до её детонации?
+Если хотим проверить клетку с координатами [5;5]
+
+```
+ public override PlayerAction Play(GameBoard gb)
+ {
+   ...
+ 
+     if (gb.XYinfo[5,5].Bomb != null) 
+     {     
+        Console.WriteLine("В клетке [5,5] есть Бомба и она взорвётся через " + gb.XYinfo[5,5].Bomb.LiveTime + " ходов");
+     }  
+   
+   ...
+}
+```
+
+## Как узнать есть ли в указанной клетке Дикий огонь, а также количество Ходов до его потухания?
+Если хотим проверить клетку с координатами [5;5]
+
+```
+ public override PlayerAction Play(GameBoard gb)
+ {
+   ...
+ 
+     if (gb.XYinfo[5,5].Lava != null) 
+     {     
+        Console.WriteLine("В клетке [5,5] есть Дикий огонь, он потухнет через " + gb.XYinfo[5,5].Lava.LiveTime + " ходов");
+     }  
+   
+   ...
+}
+```
+
+
 ## Как узнать, кто из Ботов жив?
 
 ```
@@ -129,3 +165,15 @@ X, Y, Name, Health, BombsCount...
 }
 ```
 
+## Как узнать, оставшее количество Ходов до конца игры?
+
+```
+ public override PlayerAction Play(GameBoard gb)
+ {
+   ...
+  int timeToEnd =  Config.gameTicksMax - gb.Tick;
+  Console.WriteLine ("До конца игры осталось " + timeToEnd;
+   
+   ...
+}
+```
