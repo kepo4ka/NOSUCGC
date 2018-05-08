@@ -6,7 +6,7 @@
 Достаточно обратиться к нужным Свойствам просто по названию:
 X, Y, Name, Health, BombsCount...
 ```
-Пример: проверка находится ли Бот в центре:
+Пример 1: находится ли Бот в центре:
 
  public override PlayerAction Play(GameBoard gb)
  {
@@ -19,6 +19,20 @@ X, Y, Name, Health, BombsCount...
    
    ...
 }
+
+Пример 2: узнать Радиус взрыва своих Бомб:
+
+ public override PlayerAction Play(GameBoard gb)
+ {
+   ...
+
+   Console.WriteLine(Radius);
+   
+   ...
+}
+
+
+
 
 ```
 
@@ -85,6 +99,31 @@ X, Y, Name, Health, BombsCount...
             Console.WriteLine("В клетке находится бонус - Запас Дикого огня");
          }         
      }  
+   
+   ...
+}
+```
+
+## Как узнать, кто из Ботов жив?
+
+```
+ public override PlayerAction Play(GameBoard gb)
+ {
+   ...
+ 
+    for (int i = 0; i < gb.Players.Count; i++)
+    {
+        var tplayer = gb.Players[i];
+
+        if (tplayer.Health>0)
+        {
+            Console.WriteLine("Бот " + tplayer.Name + " жив");
+        }
+        else
+        {
+            Console.WriteLine("Бот " + tplayer.Name + " мёртв");
+        }
+    }
    
    ...
 }
