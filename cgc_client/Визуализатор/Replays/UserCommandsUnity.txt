@@ -1,0 +1,23 @@
+17
+4
+Bot_1 Bot_2 Bot_3 Bot_4 
+3 0 2 1 
+map1
+W W W W 
+L R D U 
+D R W R 
+L W L B 
+R B D L 
+W L R L 
+D W L U 
+L R U D 
+U U R U 
+B W R R 
+L B R D 
+W U R L 
+D R R B 
+D B R U 
+D L R U 
+D R R B 
+D R R B 
+
