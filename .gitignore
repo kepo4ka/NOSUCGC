@@ -308,3 +308,5 @@ $RECYCLE.BIN/
 cgc_client/Отладчик/User_client/User_client/bin/Debug/log.txt
 cgc_client/Отладчик/User_client/.vs/User_client/v14/.suo
 *.suo
+cgc_client/Визуализатор/Replays/UserCommandsUnity1.txt
+cgc_client/Визуализатор/Replays/UserCommandsUnity2.txt
